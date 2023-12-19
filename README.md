@@ -29,3 +29,8 @@ Acest material este protejat prin drepturi de autor și este destinat doar pentr
 Contact
 
 Pentru întrebări sau comentarii legate de acest studiu, vă rugăm să contactați la [magurean.corneliu@gmail.com].
+
+Abstract
+
+În contextul dinamic al sectorului tehnologic, înțelegerea factorilor care influențează structura salarială este crucială pentru organizații și profesioniști. Acest articol se concentrează pe evaluarea amănunțită a salariilor în industria IT, luând în considerare diverse variabile, inclusiv locația geografică, nivelul de experiență și gradul de muncă la distanță. Se analizează distribuția salarială în funcție de ani, comparând medii și mediane salariale între diferite niveluri de experiență și titluri de posturi. Studiul oferă, de asemenea, o perspectivă asupra distribuției geografice a salariilor, identificând regiuni cu cele mai înalte și cele mai scăzute remunerații medii. În plus, se examinează impactul muncii la distanță asupra structurii salariale, explorând diferențele între angajații care lucrează complet la distanță, parțial la distanță și fără muncă la distanță. Prin metode statistice riguroase, inclusiv analize descriptive, regresie liniară și modele de arbore de decizie, studiul aduce o contribuție semnificativă la literatura existentă, oferind o perspectivă detaliată asupra dinamicii salariale în sectorul IT.
+
